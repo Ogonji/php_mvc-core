@@ -1,0 +1,9 @@
+{
+    "name": "chak/mvc-core",
+    "autoload": {
+        "psr-4": {
+            "Chak\\MvcCore\\": "src/"
+        }
+    },
+    "require": {}
+}
