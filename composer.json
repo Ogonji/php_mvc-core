@@ -1,0 +1,15 @@
+{
+    "name": "chak/mvccore",
+    "autoload": {
+        "psr-4": {
+            "Chak\\Mvccore\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Agure Joseph",
+            "email": "agurejoseph@gmail.com"
+        }
+    ],
+    "require": {}
+}
