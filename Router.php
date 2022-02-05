@@ -40,7 +40,7 @@ class Router{
 
             /**
              * 
-             * @var \app\core\Controller $controller
+             * @var $controller \app\core\Controller
              */
             $controller = new $callback[0]();
             Application::$app->controller = $controller;
